@@ -1,19 +1,27 @@
 <p align="center">
  <img src="_images-vscode-visual-studio-code/vscode-visual-studio-code-logo-1.png" alt="VSCode Visual Studio Code Logo" title="VSCode Visual Studio Code Logo" width="600" />
-</p>
+</p>  
 
-# `VSCode Visual Studio Code`
+<br/>
+
+<div align="center">
+
+# `VSCode-Visual Studio Code Documentation`
+
+</div>
+
+<br/>
 
 - VSCode Visual Studio Code for Faster Web Development
 - VSCode Visual Studio Code for Beginners
 - VSCode Visual Studio Code Basics
 - VSCode Visual Studio Code Essentials
 
-## Description
+## `Description`
 
 Let us learn the essentials of the VSCode Visual Studio Code. This course/tutorial will help to learn important features, tips and tricks widely used and pretty useful for day-to-day faster web development.
 
-## Topics (separate with spaces)
+## `Topics (separate with spaces)`
 
 Add topics to categorize your repository and make it more discoverable:
 
@@ -42,7 +50,7 @@ Add topics to categorize your repository and make it more discoverable:
 
 Hello Everyone, I'm **`Sajib Bhattacharjee, A passionate Full-Stack Web-Developer`**, I want to welcome you to the `VSCode Visual Studio Code for Faster Web Development`.
 
-## About the Course
+## `About the Course`
 
 VSCode Visual Studio Code is one of the most powerful **IDE (Integrated Development Environment)** developed and maintained by `Microsoft Corporation`. It works extremely well with almost all programming languages like C# (C-Sharp), Java, Python, JavaScript and so on. VSCode Visual Studio Code is loaded with various rich features and functionalities.
 
@@ -50,7 +58,7 @@ Let us learn the essentials of the VSCode Visual Studio Code. This course/tutori
 
 This tutorial explains the fundamental/essential concepts to make the best use of the VSCode Visual Studio Code to work faster. Here will go through and learn some important capabilities of the VSCode Visual Studio Code.
 
-## What will learn and cover
+## `What will learn and cover`
 
 Welcome to the new tutorial series on VSCode Visual Studio Code.
 
@@ -66,7 +74,7 @@ In this introductory VSCode Visual Studio Code module will have a look and learn
 - Shortcuts in Visual Studio Code
 - Customization in Visual Studio Code with Themes and Icon Themes
 
-## Who is this for? Audience
+## `Who is this for? Audience`
 
 This Course is ideal for:
 
@@ -76,9 +84,9 @@ This Course is ideal for:
 - Any Developer/Designer
 - Web Designers and Developers, Front-End/UI Designers and Developers
 
-## Course achievement
+## `Course achievement`
 
-## Course Goal
+## `Course Goal`
 
 After completing/attending/finishing this Course/Tutorial, participants should be able to:
 
@@ -90,7 +98,7 @@ After completing/attending/finishing this Course/Tutorial, participants should b
 - Customize VSCode Visual Studio Code with Color and Icon Themes
 - Install and use various extensions available in Visual Studio Code, which makes programmers life easier
 
-## Prerequisites for current course / What you need to know
+## `Prerequisites for current course / What you need to know`
 
 - HTML5
 - CSS3
@@ -98,7 +106,7 @@ After completing/attending/finishing this Course/Tutorial, participants should b
 - Basics of any programming language
 - Basic web development knowledge is useful but not required
 
-# Topics included/covered
+# `Topics included/covered`
 
 1. [Introduction to VSCode Visual Studio Code](#1-introduction-to-vscode-visual-studio-code)
    - 1.1. [What is VSCode Visual Studio Code](#11-what-is-vscode-visual-studio-code)
@@ -129,7 +137,7 @@ After completing/attending/finishing this Course/Tutorial, participants should b
 10. [Favorite and Popular Extensions](#10-favorite-and-popular-extensions)
 11. [VSCode Resources](#11-vscode-resources)
 
-# 1 Introduction to VSCode Visual Studio Code
+# `1 Introduction to VSCode Visual Studio Code`
 
 ## 1.1. What is VSCode Visual Studio Code
 
@@ -734,12 +742,29 @@ Here are some of the important and widely used actions with shortcut key:
 
 > **Reference**: Visual Studio Code -> Help Menu
 
-### `Collected`
+ 
+---
 
-### `Created By-->`
+<div align="center">
 
-**`-Sajib Bhattacharjee`**
+# 🌟 **All Rights Reserved by** 🌟  
+### `Sajib Bhattacharjee`  @2024  
 
-**`Dedicated for 💕"Zahan" 💕`**
+---
 
-> > ### Thanks A Lot For Visiting...!!!
+### 👨‍💻 **Created By** ➡️  
+**&copy; `Sajib Bhattacharjee`**  
+
+---
+
+### 💖 **Dedicated to** 💖  
+### _💕 **"Zahan"** 💕_
+
+---
+
+### 🙏 **Thanks A Lot for Visiting** 🙏  
+### ✨ **Come Back Soon!** ✨  
+
+</div>
+
+
